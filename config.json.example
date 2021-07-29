@@ -1,0 +1,7 @@
+{
+"token": "{your-discord-bot-token}",
+"prefix": "-",
+"author": "SER!AL",
+"version": "0.1.dev",
+"botAdminIds": ["{discord-userID}"]
+}
